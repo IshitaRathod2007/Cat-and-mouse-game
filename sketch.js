@@ -10,15 +10,15 @@ var garden , gardenImage;
 function preload() {
     //load the images here
 
- jerryAnimation = loadAnimation("images/mouse2.png","images/mouse3.png");
+ jerryAnimation = loadAnimation("mouse2.png","mouse3.png");
 
- tomAnimation = loadAnimation("images/cat2.png","images/cat3.png");
+ tomAnimation = loadAnimation("cat2.png","cat3.png");
 
- catAnimation = loadAnimation("images/cat4.png");
+ catAnimation = loadAnimation("cat4.png");
 
- mouseAnimation = loadAnimation("images/mouse4.png");
+ mouseAnimation = loadAnimation("mouse4.png");
 
-gardenImage = loadImage("images/garden.png");
+gardenImage = loadImage("garden.png");
 
 }
 
